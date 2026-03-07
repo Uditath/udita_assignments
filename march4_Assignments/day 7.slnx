@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="abstract class interface demo/abstract class interface demo.csproj" />
+  <Project Path="function overloading/function overloading.csproj" />
+  <Project Path="inheritance demo/inheritance demo.csproj" />
+  <Project Path="virtual functions/virtual functions.csproj" />
+</Solution>

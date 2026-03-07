@@ -1,0 +1,16 @@
+C:\Users\thaku\OneDrive\Desktop\capgemini\day 7\abstract class interface demo\bin\Debug\net8.0-windows\abstract class interface demo.exe
+C:\Users\thaku\OneDrive\Desktop\capgemini\day 7\abstract class interface demo\bin\Debug\net8.0-windows\abstract class interface demo.deps.json
+C:\Users\thaku\OneDrive\Desktop\capgemini\day 7\abstract class interface demo\bin\Debug\net8.0-windows\abstract class interface demo.runtimeconfig.json
+C:\Users\thaku\OneDrive\Desktop\capgemini\day 7\abstract class interface demo\bin\Debug\net8.0-windows\abstract class interface demo.dll
+C:\Users\thaku\OneDrive\Desktop\capgemini\day 7\abstract class interface demo\bin\Debug\net8.0-windows\abstract class interface demo.pdb
+C:\Users\thaku\OneDrive\Desktop\capgemini\day 7\abstract class interface demo\obj\Debug\net8.0-windows\abstract_class_interface_demo.Form1.resources
+C:\Users\thaku\OneDrive\Desktop\capgemini\day 7\abstract class interface demo\obj\Debug\net8.0-windows\abstract class interface demo.csproj.GenerateResource.cache
+C:\Users\thaku\OneDrive\Desktop\capgemini\day 7\abstract class interface demo\obj\Debug\net8.0-windows\abstract class interface demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaku\OneDrive\Desktop\capgemini\day 7\abstract class interface demo\obj\Debug\net8.0-windows\abstract class interface demo.AssemblyInfoInputs.cache
+C:\Users\thaku\OneDrive\Desktop\capgemini\day 7\abstract class interface demo\obj\Debug\net8.0-windows\abstract class interface demo.AssemblyInfo.cs
+C:\Users\thaku\OneDrive\Desktop\capgemini\day 7\abstract class interface demo\obj\Debug\net8.0-windows\abstract class interface demo.csproj.CoreCompileInputs.cache
+C:\Users\thaku\OneDrive\Desktop\capgemini\day 7\abstract class interface demo\obj\Debug\net8.0-windows\abstract class interface demo.dll
+C:\Users\thaku\OneDrive\Desktop\capgemini\day 7\abstract class interface demo\obj\Debug\net8.0-windows\refint\abstract class interface demo.dll
+C:\Users\thaku\OneDrive\Desktop\capgemini\day 7\abstract class interface demo\obj\Debug\net8.0-windows\abstract class interface demo.pdb
+C:\Users\thaku\OneDrive\Desktop\capgemini\day 7\abstract class interface demo\obj\Debug\net8.0-windows\abstract class interface demo.genruntimeconfig.cache
+C:\Users\thaku\OneDrive\Desktop\capgemini\day 7\abstract class interface demo\obj\Debug\net8.0-windows\ref\abstract class interface demo.dll
